@@ -13,3 +13,4 @@ expr 1+1
 echo "Now we use the bc, bc is a calculator"
 echo 1+1 | bc
 echo 2^10 | bc
+echo "==END==="
